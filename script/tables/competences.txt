@@ -1,0 +1,6 @@
+01	Realiser une developpement d'application
+02	Optimiser des applications informatiques
+03	Administrer des systemes informatiques communicants
+04	Gerer des donnees de l'information 
+05	Conduire un projet
+06	Travailler dans une equipe informatique

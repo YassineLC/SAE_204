@@ -1,0 +1,22 @@
+01	S2	1021	Developpement oriente objets	01		
+02	S2	1541	Developpement d'application avec IHM	02		
+03	S2	4811	Qualite de developpement	03		
+04A	S2	7184	Communication et fonctionnement bas niveau	04A		
+04B	S2	2379	Communication et fonctionnement bas niveau	04B		
+05	S2	2379	Introduction aux services reseaux	05		
+06	S2	7251	Exploitation d'une base de donnees	06		
+07	S2	9281	Graphes	07		
+08	S2	7815	Outils numeriques pour les statistiques descriptives	08		
+09	S2	7815	Methodes numeriques	09		
+10	S2	5461	Gestion de projet et des organisations	10		
+11	S2	7581	Droit des contrats et du numérique	11		
+12	S2	1254	Anglais d'entreprise	12		
+13	S2	1831	Communication avec le milieu professionnel	13		
+14	S2	1831	Projet professionnel et personnel : metiers de l'informatique	14		
+15	S2	1021	Developpement d'une application		01	
+16	S2	9281	Exploration algorithmique d'un probleme		02	
+17	S2	2379	Installation de services reseau		03	
+18	S2	7251	Exploitation d'une base de donnees		04	
+19	S2	5461	Gestion d'un projet		05	
+20	S2	1831	Organisation d'un travail d'equipe		06	
+21	S2	1831	Portfolio			01
